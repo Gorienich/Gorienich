@@ -66,6 +66,6 @@ At the same time, I build **automation and AI systems** that connect business pr
 
 ---
 
-## ⚡ Philosophy
+## 🧠 Philosophy
 
 > “Systems should be stable, secure, and automated wherever possible.”
