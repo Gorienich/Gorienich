@@ -56,15 +56,7 @@ At the same time, I build **automation and AI systems** that connect business pr
 - Improving security + automation balance in systems
 - Developing scalable internal tools
 
----
 
-## 📫 Contact
-
-- GitHub: @Gorienich  
-- Location: Israel  
-- Open to collaboration in automation & infrastructure projects
-
----
 
 ## 🧠 Philosophy
 
