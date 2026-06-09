@@ -6,7 +6,7 @@
 
 ## 🔧 About Me
 
-I work as a **System Administrator at Saar Tikshoret**, focusing on:
+I work as a **System Administrator at Saar Tikshoret.co.il**, focusing on:
 
 - 🖥️ Endpoint management and security
 - 🔐 User access control (security tiers & permissions)
